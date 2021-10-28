@@ -1,0 +1,128 @@
+{
+  "id": "2896409",
+  "name": "dewuapp",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2191",
+      "name": "宝贝",
+      "font_class": "baobei",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "1486",
+      "name": "陶",
+      "font_class": "tao",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "4662761",
+      "name": "服务",
+      "font_class": "fuwu",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "7542686",
+      "name": "24gl-bag",
+      "font_class": "24gl-bag",
+      "unicode": "e877",
+      "unicode_decimal": 59511
+    },
+    {
+      "icon_id": "7542687",
+      "name": "24gl-bag2",
+      "font_class": "24gl-bag2",
+      "unicode": "e878",
+      "unicode_decimal": 59512
+    },
+    {
+      "icon_id": "9251667",
+      "name": "21-章鱼",
+      "font_class": "-zhangyu",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "1313805",
+      "name": "服装",
+      "font_class": "yifu",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "4770043",
+      "name": "游戏",
+      "font_class": "youxi",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "878701",
+      "name": "鞋子",
+      "font_class": "gouwuche",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "5387553",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "eafe",
+      "unicode_decimal": 60158
+    },
+    {
+      "icon_id": "5387558",
+      "name": "相机",
+      "font_class": "xiangji",
+      "unicode": "eb01",
+      "unicode_decimal": 60161
+    },
+    {
+      "icon_id": "5387904",
+      "name": "相机_o",
+      "font_class": "xiangji_o",
+      "unicode": "eb86",
+      "unicode_decimal": 60294
+    },
+    {
+      "icon_id": "8939930",
+      "name": "搜索",
+      "font_class": "sousuo1",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "13182075",
+      "name": "鞋子",
+      "font_class": "xiezi",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "13606943",
+      "name": "优惠卷",
+      "font_class": "youhuijuan",
+      "unicode": "e7b1",
+      "unicode_decimal": 59313
+    },
+    {
+      "icon_id": "13645030",
+      "name": "优惠卷",
+      "font_class": "youhuijuan1",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "13645614",
+      "name": "搜索",
+      "font_class": "sousuo2",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    }
+  ]
+}
